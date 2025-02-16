@@ -42,7 +42,7 @@ I have a data analysis certification and recently earned the IBM Data Science Pr
 
 LinkedIn: https://linkedin.com/in/tetteh-chinelo
 
-GitHub: 
+GitHub: https://github.com/chinelotetteh
 
 🚀 Let's unlock the power of data together!
 
